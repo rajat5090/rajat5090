@@ -1,0 +1,29 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "An assignment for recuritment process.",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-beta.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajat5090/rajat5090.git"
+  },
+  "author": "Mr. Rajat Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajat5090/rajat5090/issues"
+  },
+  "homepage": "https://github.com/rajat5090/rajat5090#readme"
+}
